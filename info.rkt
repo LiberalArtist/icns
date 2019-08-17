@@ -1,5 +1,6 @@
 #lang info
 
+(define pkg-name "icns")
 (define collection "icns")
 (define pkg-desc "Library for Apple .icns icon format")
 (define version "0.0")
