@@ -6,7 +6,7 @@
 (define version "0.0")
 (define pkg-authors '(philip))
 
-(define scribblings '(("scribblings/icns.scrbl" ())))
+(define scribblings '(("scribblings/icns.scrbl" () (gui-library))))
 
 (define deps '("base"
                "pict-lib"
