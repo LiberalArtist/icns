@@ -2,8 +2,7 @@
 
 @title{@racketmodname[icns]: Apple Icon Files}
 @author[(author+email @elem{Philip M@superscript{c}Grath}
-                      "philip@philipmcgrath.com"
-                      #:obfuscate? #t)]
+                      "philip@philipmcgrath.com")]
 @defmodule[icns]
 
 @(require (for-label icns
